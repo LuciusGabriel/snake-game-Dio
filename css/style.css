@@ -9,3 +9,7 @@ body{
     color:#FFF;
     background-color: #030303;
 }
+
+h2{
+    display: inline;
+}
